@@ -53,7 +53,10 @@ Este documento descreve o plano de teste para um sistema de e-commerce fictício
 ## 10. Cronograma Estimado
 
 • Planejamento dos Testes - Data Início: 21/03/2025 - Data Fim: 22/03/2025
+
 • Elaboração dos Casos - Data Início: 22/03/2025 - Data Fim: 23/03/2025
+
 • Execução dos Testes - Data Início: 23/03/2025 - Data Fim: 24/03/2025
+
 • Reporte e Reteste de Bugs - Data Início: 24/03/2025 - Data Fim: 25/03/2025
 
