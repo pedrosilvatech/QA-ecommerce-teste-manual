@@ -5,9 +5,9 @@ Este repositório contém documentos de QA (Quality Assurance) para um e-commerc
 
 ## 📝 Documentação
 
-- 🔐 [Casos de Teste - Login e Cadastro](./docs/Casos_de_Teste_Login_Cadastro)
+- 🔐 [Casos de Teste - Login e Cadastro](./docs/Casos_de_Teste_Login_Cadastro.md)
 - 🛒 [Casos de Teste - Carrinho e Checkout](./docs/Casos_de_Teste_Carrinho_Checkout.md)
-- 🐞 [Relatório de Bugs](./docs/Bugs_Reportados.md)
+- 🐞 [Bugs Reportados](./docs/Bugs_Reportados.md)
 
 ## 🎯 Objetivo
 
