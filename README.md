@@ -12,12 +12,11 @@ Este projeto simula um processo completo de testes manuais em um sistema de e-co
 ## 🛠️ Ferramentas utilizadas
 - Markdown para documentação.
 - Simulação de gestão de bugs (como se fosse Jira ou Trello).
-- Google Sheets ou Excel (opcional para planilhas de teste).
   
 ## 🧩 Estrutura do Projeto
 - **Plano de Teste**: Documento com escopo e objetivos.
 - **Casos de Teste**: Listagem de cenários e validações.
-- **Relatório de Bugs**: Bugs encontrados na simulação.
+- **Bugs Reportados**: Bugs encontrados na simulação.
 - **Ciclo de Vida do Bug**: Fluxograma ou explicação textual do processo.
 
 ---
