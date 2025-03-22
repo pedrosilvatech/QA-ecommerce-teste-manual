@@ -1,26 +1,32 @@
-# Projeto de QA Manual - E-commerce Fictício
+# 🧪 Projeto QA - E-commerce Fictício
 
-## 📌 Descrição
-Este projeto simula um processo completo de testes manuais em um sistema de e-commerce fictício. A ideia é demonstrar como um analista de QA realiza atividades de planejamento, execução de casos de teste e reporte de bugs.
+Este repositório contém documentos de QA (Quality Assurance) para um e-commerce fictício, simulando as etapas de testes manuais, incluindo casos de teste e relatório de bugs.
 
-## 🎯 Objetivos
-- Criar um plano de teste para funcionalidades principais de um e-commerce.
-- Elaborar casos de teste para fluxos como login, cadastro, carrinho de compras e checkout.
-- Reportar bugs fictícios encontrados durante a simulação de testes.
-- Documentar o ciclo de vida de um bug.
 
-## 🛠️ Ferramentas utilizadas
-- Markdown para documentação.
-- Simulação de gestão de bugs (como se fosse Jira ou Trello).
-  
-## 🧩 Estrutura do Projeto
-- **Plano de Teste**: Documento com escopo e objetivos.
-- **Casos de Teste**: Listagem de cenários e validações.
-- **Bugs Reportados**: Bugs encontrados na simulação.
-- **Ciclo de Vida do Bug**: Fluxograma ou explicação textual do processo.
+## 📝 Documentação
+
+- 🔐 [Casos de Teste - Login](./docs/Casos_de_Teste_Login.md)
+- 🆕 [Casos de Teste - Cadastro](./docs/Casos_de_Teste_Cadastro.md)
+- 🛒 [Casos de Teste - Carrinho e Checkout](./docs/Casos_de_Teste_Carrinho_Checkout.md)
+- 🐞 [Relatório de Bugs](./docs/Bugs_Reportados.md)
+
+## 🎯 Objetivo
+
+Demonstrar habilidades em QA, incluindo a criação de casos de teste claros e bem documentados, bem como o registro e gerenciamento de bugs, simulando um fluxo real de QA para aplicações web.
+
+## ⚙️ Tecnologias / Ferramentas
+
+- Testes Manuais
+- Metodologia de QA
+- Simulação de gestão de bugs (como se fosse Jira ou Trello)
+- Git e GitHub para versionamento e documentação
+
+## 🚀 Como utilizar este repositório
+
+1. Explore os documentos na pasta `/docs`
+2. Analise os casos de teste descritos para cada funcionalidade
+3. Verifique os bugs reportados no relatório
+
+## 👨‍💻 Desenvolvido por **Pedro Silva**
 
 ---
-
-## ⚠️ Observação
-Este projeto é acadêmico e tem fins educacionais, com o objetivo de demonstrar habilidades em QA manual.
-
